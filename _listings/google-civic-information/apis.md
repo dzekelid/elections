@@ -15,8 +15,8 @@ tags:
 - Google APIs
 - Federal Government
 - City Government
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/election/master/_listings/google-civic-information/apis.yaml
 specificationVersion: "0.14"
 apis:
